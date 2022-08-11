@@ -59,10 +59,10 @@ global.ppulsa2 = '087752078797'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287752078797'
+global.nomorbot = '6287760550924'
 global.nomorown = '6287760550924'
-global.namebot = 'ᴹᴿ᭄Leon•Botz ×፝֟͜×'
-global.nameown = 'ᴹᴿ᭄Leon•Owner ×፝֟͜×'
+global.namebot = 'sad-botz'
+global.nameown = 'Papa-Chan👑'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['6287760550924'],
   ['6287760550924'],
   ['6287760550924'],
-  ['6287760550924', 'Leon-chanel', true]
+  ['6287760550924', 'Papa-Chan👑', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 LeonBotz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘LeonBotzฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ LeonBotz 𝗕𝗢𝗧'
+global.wm = '                「 Sad-botz あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Papa-Chan ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Sad-Botz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
